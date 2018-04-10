@@ -1,0 +1,7 @@
+For real-time car number plate detection:
+
+https://github.com/openalpr/openalpr
+
+Note:
+
+"traffic-signs-data" has not been uploaded in this repository, needed to be downloaded separately.
