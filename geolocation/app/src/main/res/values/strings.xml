@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">geo-location</string>
+    <string name="geofence_transition_notification_text">Geo location</string>
+    <string name="geofence_transition_entered">Geo location</string>
+    <string name="geofence_transition_exited">Geo location</string>
+    <string name="unknown_geofence_transition">Geo location</string>
+    <string name="geofence_transition_invalid_type">Geo location</string>
+    <string name="unknown_geofence_error">Unknown Error</string>
+    <string name="geofence_not_available">Not Available</string>
+    <string name="geofence_too_many_geofences">Too many Fences in this area</string>
+    <string name="geofence_too_many_pending_intents">Too many pending Intents</string>
+</resources>

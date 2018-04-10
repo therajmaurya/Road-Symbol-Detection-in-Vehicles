@@ -1,0 +1,2 @@
+model_checkpoint_path: "VGGNet.ckpt"
+all_model_checkpoint_paths: "VGGNet.ckpt"
